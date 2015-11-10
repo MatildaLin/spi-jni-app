@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/matildalin/StudioProjects/spi/spiapp/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">About</string>
+    <string name="app_name">SPI App For GG</string>
+    <string name="choose_mode_title">Mode</string>
+    <string name="exit">Exit</string>
+    <string name="mode_select">--- Select ---</string>
+    <string name="result_title">Result</string>
+    <string name="select_file_button">Select</string>
+    <string name="select_file_path">file path</string>
+    <string name="select_file_title">Settings File</string>
+    <string name="send_button">Send</string>
+    <string name="version">v20151110.1.0</string>
+</resources>

@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:2:1-18:12
+	xmlns:android
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:3:11-37
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:5:11-36
+	android:versionCode
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:6:42-71
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:6:15-41
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:8:5-17:19
+	android:label
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:8:18-50
+	android:icon
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:8:51-87
+activity#com.reald.spiapp.MainActivity
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:11:19-51
+	android:configChanges
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:10:19-65
+	android:name
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:9:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from /Users/matildalin/StudioProjects/spi/spiapp/app/src/main/AndroidManifest.xml:14:27-74
